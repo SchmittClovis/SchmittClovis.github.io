@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://SchmittClovis.github.io/blog//sitemap.xml
+Sitemap: https://SchmittClovis.github.io/sitemap.xml
